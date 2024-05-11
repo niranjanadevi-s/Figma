@@ -51,11 +51,12 @@ top: calc(50% - 48px/2 + 5px);
 font-family: 'Inria Sans';
 font-style: normal;
 font-weight: 400;
-~~~
 font-size: 20px;
 line-height: 24px;
 text-align: center;
 color: #2B3F0A;
+~~~
+~~~
 mix-blend-mode: normal;
    /* Line 1 */
 position: absolute;
