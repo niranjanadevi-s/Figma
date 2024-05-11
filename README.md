@@ -32,35 +32,17 @@ font-family: 'Inria Sans';
 text-align: center;
 color: #2B0C52;
 mix-blend-mode: normal;
-   /* Affiliated to Anna University */
-position: absolute;
-width: 321px;
-height: 34px;
-left: calc(50% - 321px/2 + 0.5px);
-top: calc(50% - 34px/2 - 66px);
-font-family: 'Inria Sans';
-font-style: normal;
-font-weight: 400;
-mix-blend-mode: normal;
-  /* NIRF Ranked Autonomous Institiution */
+/* NIRF Ranked Autonomous Institiution */
 position: absolute;
 width: 218px;
 height: 48px;
 left: calc(50% - 218px/2);
 top: calc(50% - 48px/2 + 5px);
-font-family: 'Inria Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
-text-align: center;
 color: #2B3F0A;
 mix-blend-mode: normal;
    /* Line 1 */
 position: absolute;
 width: 360px;
-~~~
-~~~
 height: 0px;
 left: 0px;
 top: 67px;
@@ -73,6 +55,8 @@ height: 87px;
 left: calc(50% - 95px/2 + 0.5px);
 top: calc(50% - 87px/2 - 174.5px);
 background: url(Saveetha Logo.png
+~~~
+~~~
 /* Rectangle 1 */
 position: absolute;
 width: 148px;
@@ -88,8 +72,6 @@ left: calc(50% - 125px/2 + 0.5px);
 top: calc(50% - 20px/2 + 120px);
 color: #000000;
 position: relative;
-width: 360px;
-height: 640px;
 background: linear-gradient(180deg, rgba(187, 191, 191, 0.901) 73.02%, rgba(187, 191, 191, 0) 100%);
 /* SAVEETHA ENGINEERING COLLEGE */
 position: absolute;
@@ -97,12 +79,6 @@ width: 321px;
 height: 34px;
 left: calc(50% - 321px/2 + 0.5px);
 top: calc(50% - 34px/2 - 285px);
-/* Line 2 */
-position: absolute;
-width: 360px;
-height: 0px;
-left: 1px;
-top: 68px;
 /* Saveetha Logo 2 */
 position: absolute;
 width: 95px;
@@ -116,8 +92,6 @@ width: 123px;
 height: 25px;
 left: 14px;
 top: 258px;
-font-family: 'Inria Sans';
-color: #B412B8;
 /* Password */
 position: absolute;
 width: 123px;
@@ -132,13 +106,6 @@ width: 187px;
 height: 30px;
 left: 154px;
 top: 258px;
-background: #4A9F9A;
-/* Rectangle 3 */
-position: absolute;
-width: 187px;
-height: 30px;
-left: 154px;
-top: 312px;
 background: #4A9F9A;
 /* Rectangle 3 */
 position: absolute;
@@ -172,13 +139,6 @@ position: relative;
 width: 360px;
 height: 640px;
 background: linear-gradient(180deg, rgba(187, 191, 191, 0.901) 78.75%, rgba(187, 191, 191, 0) 100%);
-/* SAVEETHA ENGINEERING COLLEGE */
-position: absolute;
-width: 321px;
-height: 34px;
-text-align: center;
-color: #2B0C52;
-mix-blend-mode: normal;
 /* Line 3 */
 position: absolute;
 width: 360px;
