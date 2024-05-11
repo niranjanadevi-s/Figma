@@ -55,11 +55,11 @@ height: 87px;
 left: calc(50% - 95px/2 + 0.5px);
 top: calc(50% - 87px/2 - 174.5px);
 background: url(Saveetha Logo.png
-~~~
-~~~
 /* Rectangle 1 */
 position: absolute;
 width: 148px;
+~~~
+~~~
 height: 35px;
 left: calc(50% - 148px/2);
 top: calc(50% - 35px/2 + 122.5px);
@@ -68,8 +68,6 @@ background: #138B7C;
 position: absolute;
 width: 125px;
 height: 20px;
-left: calc(50% - 125px/2 + 0.5px);
-top: calc(50% - 20px/2 + 120px);
 color: #000000;
 position: relative;
 background: linear-gradient(180deg, rgba(187, 191, 191, 0.901) 73.02%, rgba(187, 191, 191, 0) 100%);
@@ -115,7 +113,6 @@ left: calc(50% - 148px/2 + 1px);
 top: calc(50% - 35px/2 + 117.5px);
 background: #D9D9D9;
 * Rectangle 4 */
-position: absolute;
 width: 148px;
 height: 35px;
 left: calc(50% - 148px/2 + 1px);
@@ -129,8 +126,6 @@ left: calc(50% - 125px/2 + 1.5px);
 top: calc(50% - 20px/2 + 115px);
 font-family: 'Inria Sans';
 font-style: normal;
-font-weight: 400;
-font-size: 20px;
 line-height: 24px;
 text-align: center;
 color: #000000;
