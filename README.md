@@ -51,6 +51,7 @@ top: calc(50% - 48px/2 + 5px);
 font-family: 'Inria Sans';
 font-style: normal;
 font-weight: 400;
+~~~
 font-size: 20px;
 line-height: 24px;
 text-align: center;
@@ -78,9 +79,8 @@ height: 35px;
 left: calc(50% - 148px/2);
 top: calc(50% - 35px/2 + 122.5px);
 background: #138B7C;
-~~~
+
 ## LOGIN  Page
-~~~
 position: absolute;
 width: 125px;
 height: 20px;
@@ -172,7 +172,6 @@ color: #000000;
 position: relative;
 width: 360px;
 height: 640px;
-
 background: linear-gradient(180deg, rgba(187, 191, 191, 0.901) 78.75%, rgba(187, 191, 191, 0) 100%);
 /* SAVEETHA ENGINEERING COLLEGE */
 position: absolute;
@@ -186,7 +185,6 @@ font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-
 color: #2B0C52;
 mix-blend-mode: normal;
 /* Line 3 */
