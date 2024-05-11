@@ -1,7 +1,7 @@
 # Ex09 Event Registration Web Application
 ## Date:3.05.2024
 ## AIM:
-To design, develop and deploy a web application for event registration.#
+To design, develop and deploy a web application for event registration.
 # DESIGN STEPS:
 Step 1: Create a new frame.
 
@@ -55,12 +55,12 @@ font-size: 20px;
 line-height: 24px;
 text-align: center;
 color: #2B3F0A;
-~~~
-~~~
 mix-blend-mode: normal;
    /* Line 1 */
 position: absolute;
 width: 360px;
+~~~
+~~~
 height: 0px;
 left: 0px;
 top: 67px;
@@ -80,7 +80,6 @@ height: 35px;
 left: calc(50% - 148px/2);
 top: calc(50% - 35px/2 + 122.5px);
 background: #138B7C;
-
 ## LOGIN  Page
 position: absolute;
 width: 125px;
@@ -120,7 +119,6 @@ top: 258px;
 font-family: 'Inria Sans';
 color: #B412B8;
 /* Password */
-
 position: absolute;
 width: 123px;
 height: 25px;
@@ -178,13 +176,6 @@ background: linear-gradient(180deg, rgba(187, 191, 191, 0.901) 78.75%, rgba(187,
 position: absolute;
 width: 321px;
 height: 34px;
-left: calc(50% - 321px/2 - 0.5px);
-top: calc(50% - 34px/2 - 285px);
-font-family: 'Inria Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
 text-align: center;
 color: #2B0C52;
 mix-blend-mode: normal;
@@ -224,13 +215,6 @@ height: 26px;
 line-height: 24px;
 text-align: center;
 color: #62260C;
-/* AI-DS */
-position: absolute;
-width: 198px;
-height: 25px;
-left: calc(50% - 198px/2);
-top: calc(50% - 25px/2 + 96.5px);
-font-weight: 400;
 /* AI-ML */
 position: absolute;
 width: 212px;
